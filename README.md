@@ -1,6 +1,6 @@
 # US-Patent
 
-U.S. PATENT PHRASE TO PHRASE MATCHING | DEC 2022
+U.S. Patent Phrase To Phrase Matching | Dec 2022
 •	Applied transformer models on patent phrase similarity classification
 •	Fine-tuned RoBERTa and BERT-for-Patent for more accurate inferences
 •	Performed error analysis to explore the strength and weakness of each model
